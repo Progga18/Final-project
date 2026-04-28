@@ -31,13 +31,13 @@ body {
 }
 
 .front {
-  background-image: url("assets/img/Fear.png");
+  background-image: url("../img/Fear.png");
   background-size: cover;
   background-position: center;
 }
 
 .back {
-  background-image: url("assets/img/Faith.png");
+  background-image: url("../img/Faith.png");
   background-size: cover;
   background-position: center;
   transform: rotateY(180deg);

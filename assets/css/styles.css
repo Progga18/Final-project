@@ -31,10 +31,14 @@ body {
 }
 
 .front {
-  background: gold;
+  background-image: url("../img/Fear.png");
+  background-size: cover;
+  background-position: center;
 }
 
 .back {
-  background: silver;
+  background-image: url("../img/Faith.png");
+  background-size: cover;
+  background-position: center;
   transform: rotateY(180deg);
 }

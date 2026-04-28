@@ -1,3 +1,4 @@
-// main.js
-
-console.log("Hello, World!");
+function flipCoin() {
+  const coin = document.getElementById("coin");
+  coin.classList.toggle("flip");
+}

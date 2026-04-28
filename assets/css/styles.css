@@ -3,3 +3,15 @@ body {
 	color: white;
 	text-align: center;
 }
+.coin-container {
+	display: flex;
+	justifly-content: center;
+	margin-top: 50px;
+}
+
+.coin {
+	width: 150px;
+	height: 150px;
+	background: red;
+	border-radius: 50%;
+}

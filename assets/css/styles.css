@@ -11,8 +11,8 @@ body {
 }
 
 .coin {
-  width: 150px;
-  height: 150px;
+  width: 350px;
+  height: 350px;
   position: relative;
   transform-style: preserve-3d;
   transition: transform 1s;

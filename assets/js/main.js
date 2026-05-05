@@ -14,7 +14,7 @@ function handleChoice(choice) {
     message = "What you release no longer defines you.";
   } else if (choice === "understand") {
     message = "Fear becomes smaller when it is seen clearly.";
-  } else if (choice === "process") {
+  } else if (choice === "face it") {
     message = "What is processed no longer controls you.";
   }
 

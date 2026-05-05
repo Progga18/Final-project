@@ -42,7 +42,7 @@ body {
   background-position: center;
   transform: rotateY(180deg);
 }
-h1, h2 {
+div {
   line-height: 5;
   text-align: center;
 }

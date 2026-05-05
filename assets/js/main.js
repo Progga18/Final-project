@@ -11,7 +11,7 @@ function handleChoice(choice) {
   let message = "";
 
   if (choice === "let go") {
-    message = "What you release no longer defines you.";
+    message = "What I release no longer controls me.";
   } else if (choice === "understand") {
     message = "Fear becomes smaller when it is seen clearly.";
   } else if (choice === "face it") {

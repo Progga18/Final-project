@@ -13,9 +13,9 @@ function handleChoice(choice) {
   if (choice === "let go") {
     message = "What I release no longer controls me.";
   } else if (choice === "understand") {
-    message = "Fear becomes smaller when it is seen clearly.";
+    message = "I fear became smaller when I looked closely at it.";
   } else if (choice === "face it") {
-    message = "What is pr.";
+    message = "My fear seemed less powerful when I decided to face it.";
   }
 
   document.getElementById("result").innerText = message;

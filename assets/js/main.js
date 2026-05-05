@@ -13,7 +13,7 @@ function handleChoice(choice) {
   if (choice === "let go") {
     message = "What I release no longer controls me.";
   } else if (choice === "understand") {
-    message = "I fear became smaller when I looked closely at it.";
+    message = "My fear became smaller when I looked closely at it.";
   } else if (choice === "face it") {
     message = "My fear seemed less powerful when I decided to face it.";
   }

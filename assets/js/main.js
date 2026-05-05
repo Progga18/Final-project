@@ -15,7 +15,7 @@ function handleChoice(choice) {
   } else if (choice === "understand") {
     message = "Fear becomes smaller when it is seen clearly.";
   } else if (choice === "face it") {
-    message = "What is processed no longer controls you.";
+    message = "What is pr.";
   }
 
   document.getElementById("result").innerText = message;

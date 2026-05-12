@@ -1,7 +1,19 @@
+let rotation = 0;
+
+function flipCoin() {
+  const coin = document.getElementById("coin");
+
+  rotation += 180;
+
+  coin.style.transform = `rotateY(${rotation}deg)`;
+}
+
 function handleChoice(choice) {
   const coin = document.getElementById("coin");
 
-  coin.classList.toggle("flip");
+  rotation += 180;
+
+  coin.style.transform = `rotateY(${rotation}deg)`;
 
   let message = "";
 

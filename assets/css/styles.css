@@ -53,3 +53,8 @@ input {
   padding: 10px;
   border-radius: 10px;
 }
+.next-link {
+  color: #grey;
+  text-decoration: none;
+  font-size: 20px;
+}
